@@ -1,6 +1,6 @@
 # FormadoresTurmaD
 
-* ## Site da turma D
+## Site da turma D
 
 Site desenvolvido com a **turma D**, Pensamento Computacional, Formadores em Ação .
 
