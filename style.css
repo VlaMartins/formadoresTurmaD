@@ -6,12 +6,12 @@
 
 .texto-verdeescuro{
     text-align: justify;
-    color: rgb(1, 59, 13);
+    color: rgb(5, 50, 14);
 }
 
-.texto-verdeclaro{
+.texto-verdemedio{
     text-align: justify;
-    color: rgb(81, 211, 107);
+    color: rgb(61, 143, 78);
 }
 body{
     background-color: rgb(162, 236, 162);
