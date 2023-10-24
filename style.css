@@ -1,12 +1,12 @@
-h1{
+#titulo-principal{
     color : rgb(135, 11, 79);
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
 }
 
-p{
+.texto-verdeescuro{
     text-align: justify;
-    color: rgb(4, 0, 1);
+    color: rgb(1, 59, 13);
 }
 
 body{
