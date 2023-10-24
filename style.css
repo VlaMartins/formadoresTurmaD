@@ -9,6 +9,10 @@
     color: rgb(1, 59, 13);
 }
 
+.texto-verdeclaro{
+    text-align: justify;
+    color: rgb(81, 211, 107);
+}
 body{
     background-color: rgb(162, 236, 162);
 }
