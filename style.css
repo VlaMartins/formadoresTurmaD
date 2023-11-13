@@ -35,5 +35,7 @@ p{
 
 #banner{
     width: 50%;
-    display: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
