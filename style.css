@@ -11,10 +11,11 @@
 
 .texto-verdemedio{
     text-align: justify;
-    color: rgb(61, 143, 78);
+    color: rgb(43, 108, 56);
 }
 
 body{
-    background-color: rgb(162, 236, 162);
-    margin: 0;
+    background-color: rgb(199, 240, 199);
+    margin: 0px;
+    padding: 0px;
 }
