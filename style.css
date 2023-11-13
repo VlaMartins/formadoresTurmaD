@@ -1,20 +1,14 @@
 body{
-    background-color: rgb(199, 240, 199);
-    margin: 5px 30px;
-    padding: 0px;
-    line-height: 1.5em;
+    background-color: #01435D;
+
 }
 
 p{
-    margin-left: 10px;
-    margin-right: 5px;
-    line-height: 1.5;
-    font-family: Helvetica;
-    font-size: 14px;
+
 }
 
 #titulo-principal{
-    color : rgb(135, 11, 79);
+    color : #A66D03;
     text-align: center;
     font-size: 40px;
 
@@ -30,11 +24,4 @@ p{
     text-align: justify;
     color: rgb(43, 108, 56);
 
-}
-
-
-#banner{
-    width: 30%;
-    margin: auto;
-    display: block;
 }
