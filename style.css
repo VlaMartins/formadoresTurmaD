@@ -1,3 +1,17 @@
+body{
+    background-color: rgb(199, 240, 199);
+    margin: 5px 30px;
+    padding: 0px;
+    line-height: 1.5em;
+}
+
+p{
+    margin-left: 10px;
+    margin-right: 5px;
+    line-height: 1.5;
+    font-family: Helvetica;
+}
+
 #titulo-principal{
     color : rgb(135, 11, 79);
     text-align: center;
@@ -17,16 +31,7 @@
 
 }
 
-body{
-    background-color: rgb(199, 240, 199);
-    margin: 5px 30px;
-    padding: 0px;
-    line-height: 1.5em;
-}
-p{
-    margin-left: 10px;
-    margin-right: 5px;
-}
+
 #banner{
     width: 50%;
 }
