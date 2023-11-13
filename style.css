@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(11, 174, 199);
+    background-color: #7FA2A6;
 }
 
 p{
@@ -7,19 +7,19 @@ p{
 }
 
 #titulo-principal{
-    color : white;
+    color : #94bfc5;
     text-align: center;
     font-size: 40px;
 }
 
-.texto-verdeescuro{
+.texto-azulescuro{
     text-align: justify;
-    color: rgb(14, 62, 24);
+    color: #004562;
 }
 
-.texto-verdemedio{
+.texto-azulmedio{
     text-align: justify;
-    color: rgb(43, 108, 56);
+    color: #02647F
 }
 
 img{
