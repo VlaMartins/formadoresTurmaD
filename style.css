@@ -12,14 +12,14 @@ p{
     font-size: 40px;
 }
 
-.texto-azulescuro{
+.texto-azulclaro{
     text-align: justify;
-    color: #004562;
+    color: #c2eef4;
 }
 
-.texto-azulmedio{
+.texto-branco{
     text-align: justify;
-    color: #3da9c6;
+    color: white;
 }
 
 img{
