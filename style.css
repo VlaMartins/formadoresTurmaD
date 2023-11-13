@@ -25,4 +25,6 @@ p{
 img{
     width: 30%;
     margin: auto;
+    display: block;
+    border-radius: 10px;
 }
