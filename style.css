@@ -2,16 +2,19 @@
     color : rgb(135, 11, 79);
     text-align: center;
     font-size: 40px;
+    margin: 0px;
 }
 
 .texto-verdeescuro{
     text-align: justify;
     color: rgb(5, 50, 14);
+    margin: 0px;
 }
 
 .texto-verdemedio{
     text-align: justify;
     color: rgb(43, 108, 56);
+    margin: 0px;
 }
 
 body{
