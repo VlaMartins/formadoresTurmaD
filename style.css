@@ -1,6 +1,5 @@
 body{
     background-color: #01435D;
-
 }
 
 p{
@@ -17,11 +16,9 @@ p{
 .texto-verdeescuro{
     text-align: justify;
     color: rgb(5, 50, 14);
-
 }
 
 .texto-verdemedio{
     text-align: justify;
     color: rgb(43, 108, 56);
-
 }
