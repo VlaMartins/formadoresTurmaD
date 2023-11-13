@@ -23,7 +23,10 @@ body{
     padding: 0px;
     line-height: 1.5em;
 }
-
+p{
+    margin-left: 10px;
+    margin-right: 5px;
+}
 #banner{
     width: 50%;
 }
