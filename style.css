@@ -22,6 +22,6 @@ p{
     color: white;
 }
 
-#imgmenor{
-    width: 30% ; /*largura */
+.imgmenor{
+    width: 300px ; /*largura */
 }
