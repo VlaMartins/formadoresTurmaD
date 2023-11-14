@@ -1,6 +1,7 @@
 body{
     background-color: #002537;
     margin: 20px;
+    font-size: 16px;
 }
 
 p{
@@ -21,8 +22,6 @@ p{
 .texto-branco{
     text-align: justify;
     color: white;
-    padding-left:200px;
-    padding-right: 100px;
 }
 
 .imgcentro{
@@ -34,6 +33,5 @@ p{
 #imgmenor{
     width: 600px;
     margin: 30px;
-
     padding: 50px;
 }
