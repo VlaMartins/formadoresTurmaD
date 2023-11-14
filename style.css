@@ -24,5 +24,6 @@ p{
 
 .imgcentro{
     width: 600px ; /*largura */
-    text-align: center;
+    display: block;
+    margin: auto;
 }
