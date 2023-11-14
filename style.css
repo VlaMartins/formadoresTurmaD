@@ -21,7 +21,8 @@ p{
 .texto-branco{
     text-align: justify;
     color: white;
-    padding:100px;
+    padding-left:200px;
+    padding-right: 100px;
 }
 
 .imgcentro{
