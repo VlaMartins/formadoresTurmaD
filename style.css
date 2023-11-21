@@ -17,7 +17,8 @@ p{
 
 .texto{
     text-align: justify;
-    color: #F2D8A7;
+    color: #f4e5c9;
+    line-height: 1.5;
 }
 
 .imgcentro{
@@ -27,7 +28,7 @@ p{
 }
 
 #banner{
-    width: 600px;
-    margin: 30px;
-    padding: 50px;
+    width: 500px;
+    margin: 10px;
+    padding: 10px;
 }
