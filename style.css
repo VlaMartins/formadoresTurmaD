@@ -22,13 +22,13 @@ p{
 }
 
 .imgcentro{
-    width: 600px ; /*largura */
+    width: 400px ; /*largura */
     display: block;
     margin: auto;
 }
 
 #banner{
-    width: 500px;
+    width: 800px;
     margin: 10px;
     padding: 10px;
 }
