@@ -21,14 +21,14 @@ p{
     line-height: 1.5;
 }
 
-.imgcentro{
-    width: 400px ; /*largura */
-    display: block;
-    margin: auto;
+.imgesquerda{
+    width: 600px;
+    margin: 10px;
+    padding: 10px; 
 }
 
 #banner{
-    width: 600px;
-    margin: 10px;
-    padding: 10px;
+    width: 400px ; /*largura */
+    display: block;
+    margin: auto;
 }
