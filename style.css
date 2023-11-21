@@ -36,9 +36,9 @@ p{
 }
 
 .cabecalho{
-    background-image: linear-gradient(#ECAA92, #33294C);
+    background-image: linear-gradient(#33294C, #4B377C);
 }
 
 .principal{
-    background-color: rgb(218, 216, 216);
+    background-image: linear-gradient(#4B377C, #ECAA92);
 }
