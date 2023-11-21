@@ -1,28 +1,23 @@
 body{
-    background-color: #002537;
+    background-color: #282240;
     margin: 20px;
     font-size: 16px;
     font-family: Calibri;
 }
 
 p{
-
+    line-height: 1.5;
 }
 
 #titulo-principal{
-    color : #94bfc5;
+    color : #9C7BA6;
     text-align: center;
     font-size: 40px;
 }
 
-.texto-azulclaro{
+.texto{
     text-align: justify;
-    color: #c2eef4;
-}
-
-.texto-branco{
-    text-align: justify;
-    color: white;
+    color: #F2D8A7;
 }
 
 .imgcentro{
