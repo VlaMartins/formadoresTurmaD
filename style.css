@@ -9,8 +9,8 @@ body{
     padding: 10px;
     border-bottom: 4px double rgb(239, 248, 225);
     text-align: center;
-
- 
+    justify-content: space-around;
+    display: flex;
 }
 
 
