@@ -8,6 +8,10 @@ body{
 
 .cabecalho{
     background-image: linear-gradient(#33294C, #4B377C);
+    padding: 20px;
+    border-bottom: 2px solid yellow;
+    font-size: 32px;
+    color: greenyellow;
 }
 
 #titulo-principal{
