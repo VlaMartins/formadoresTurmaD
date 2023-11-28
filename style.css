@@ -32,8 +32,8 @@ body{
 #banner{
     width: 100% ; /*largura */
     padding: 5px;
-    background-color: red;
-    margin: 20px;
+    background-color: white;
+    margin: 10px;
     border-radius: 10px;
 }
 
