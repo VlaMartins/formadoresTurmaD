@@ -48,7 +48,9 @@ body{
     border: solid 3px whitesmoke;
 }
 
-
+.item{
+    display: inline-block;
+}
 
 
 p{
