@@ -22,11 +22,11 @@ body{
 }
 
 .principal{
-    background-image: linear-gradient(#4B377C, #ECAA92);
+    background-image: linear-gradient(#4B377C, #dacff5);
 }
 
 .texto{
-    text-align: justify;
+    text-align: left;
     color: #f4e5c9;
     line-height: 1.5;
 }
