@@ -31,7 +31,8 @@ body{
     line-height: 2.0;
     font-size: 18px;
     font-family: Calibri;
-    padding: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 #banner{
