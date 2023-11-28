@@ -10,6 +10,8 @@ body{
     border-bottom: 1px double rgb(239, 248, 225);
     font-size: 32px;
     color: greenyellow;
+    display: flex;
+    justify-content: space-around;
 }
 
 #titulo-principal{
