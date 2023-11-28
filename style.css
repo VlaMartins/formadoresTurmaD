@@ -9,7 +9,7 @@ body{
 .cabecalho{
     background-image: linear-gradient(#33294C, #4B377C);
     padding: 20px;
-    border-bottom: 2px solid yellow;
+    border-bottom: 1px double rgb(239, 248, 225);
     font-size: 32px;
     color: greenyellow;
 }
