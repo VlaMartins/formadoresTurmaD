@@ -23,7 +23,7 @@ body{
 
 #titulo-principal{
     color : #9C7BA6;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .principal{
@@ -50,6 +50,7 @@ body{
 
 .item{
     display: inline-block;
+    font-size: 14px;
 }
 
 
