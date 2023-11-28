@@ -12,6 +12,7 @@ body{
     border-bottom: 2px solid yellow;
     font-size: 32px;
     color: greenyellow;
+    width: 100%;
 }
 
 #titulo-principal{
